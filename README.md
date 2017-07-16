@@ -1,11 +1,4 @@
----
-title: arm64指令新手教程
-categories:
-  - default
-tags:
-  - default
-date: 2017-07-12 21:39:27
----
+# arm64指令新手教程
 
 
 ## 什么是栈？
